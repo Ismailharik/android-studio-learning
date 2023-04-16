@@ -1,6 +1,13 @@
 <img src="img.png">
 
 <h2> All Buttons inside <i > RelativeLayout </i></h2>
+
+<p>All buttons contains  </p>
+<ul>
+    <li>android:layout_width="match_parent"</li>
+    <li>android:layout_height="wrap_content"</li>
+</ul>
+
 <h4>First Button : </h4>
 <ul>
     <li>android:layout_alignParentLeft="true"</li>
