@@ -53,7 +53,7 @@
 </ul>
 
 
-<h2>TP2:</h2>
+<h2>TP2: (IMCKARIM)</h2>
 <p>Widget used</p>
 <ul>
     <li>TextView</li>
@@ -63,4 +63,5 @@
     <li>Button</li>
 </ul>
 
+<h2>TP2: (IMCKARIM)</h2>
 <img src="TPIMCKARIM.png">
