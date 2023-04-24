@@ -54,4 +54,13 @@
 
 
 <h2>TP2:</h2>
+<p>Widget used</p>
+<ul>
+    <li>TextView</li>
+    <li>EditText</li>
+    <li>RadioGroup - RadioButton</li>
+    <li>CheckBox</li>
+    <li>Button</li>
+</ul>
+
 <img src="TPIMCKARIM.png">
