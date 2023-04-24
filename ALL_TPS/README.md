@@ -62,6 +62,4 @@
     <li>CheckBox</li>
     <li>Button</li>
 </ul>
-
-<h2>TP2: (IMCKARIM)</h2>
 <img src="TPIMCKARIM.png">
