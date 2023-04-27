@@ -1,5 +1,10 @@
 
 <h1>All TPs( excercices) That we make in our school</h1>
+
+<p>How to navigate between all TPs , just go to app/manifest/AndroidManifest.xml , and change name attribute with the layout name</p>
+<img src="img2.jpg" width="80%" style="margin-left:30px">
+
+
 <h2>TP1:</h2>
 <img src="img.png">
 <h3> All Buttons inside <i > RelativeLayout </i></h3>
@@ -63,3 +68,16 @@
     <li>Button</li>
 </ul>
 <img src="TPIMCKARIM.png">
+
+
+<h2>TP8 : NOTIFICATIONS</h2>
+<p>In this TP we have covered many types of notifications</p>
+<ul>
+    <li>Message Long</li>
+    <li>Message Short</li>
+    <li>NOTIFICATION</li>
+    <li>ALERT ONE OPTION</li>
+    <li>ALERT TWO OPTIONS</li>
+    <li>ALERT ONE OPTION with cancel</li>
+</ul>
+<img src="img3.png" style="margin-left:100px">
