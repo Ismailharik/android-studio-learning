@@ -3,7 +3,8 @@
     xmlns:tools="http://schemas.android.com/tools">
 
 <!--    <uses-permission android:name="android.permission.POST_NOTIFICATIONS" />-->
-    <uses-permission android:name="android.permission.POST_NOTIFICATIONS" />
+    <uses-permission android:name="android.permission.CALL_PHONE" />
+
     <application
         android:allowBackup="true"
         android:dataExtractionRules="@xml/data_extraction_rules"
@@ -14,7 +15,7 @@
         android:theme="@style/Theme.TPs"
         tools:targetApi="31">
         <activity
-            android:name=".Notifications"
+            android:name=".Appel"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

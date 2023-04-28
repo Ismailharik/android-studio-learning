@@ -81,3 +81,18 @@
     <li>ALERT ONE OPTION with cancel</li>
 </ul>
 <img src="img3.png" style="margin-left:100px">
+
+<h2>TP Appel:</h2>
+<p>Don't forgot to active call permission </p>
+<div>
+<img width="49%" src="permission1.png">
+<img width="49%" src="permission2.png">
+</div>
+<br>
+<br>
+
+<p>Demo : </p>
+<div>
+<img width="49%" src="appel1.png">
+<img width="49%" src="appel.png">
+</div>
