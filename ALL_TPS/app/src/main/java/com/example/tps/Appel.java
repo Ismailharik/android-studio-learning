@@ -1,9 +1,7 @@
 package com.example.tps;
 
 import android.content.Intent;
-import android.content.pm.PackageManager;
 import android.net.Uri;
-import android.telephony.SmsManager;
 import android.view.View;
 import android.view.View.OnClickListener;
 import android.os.Bundle;
@@ -12,7 +10,6 @@ import android.widget.EditText;
 
 import androidx.annotation.Nullable;
 import androidx.appcompat.app.AppCompatActivity;
-import androidx.core.app.ActivityCompat;
 
 public class Appel extends AppCompatActivity implements OnClickListener {
 

@@ -4,6 +4,8 @@
 
 <!--    <uses-permission android:name="android.permission.POST_NOTIFICATIONS" />-->
     <uses-permission android:name="android.permission.CALL_PHONE" />
+    <uses-permission android:name="android.permission.SEND_SMS" />
+
 
     <application
         android:allowBackup="true"
@@ -15,7 +17,7 @@
         android:theme="@style/Theme.TPs"
         tools:targetApi="31">
         <activity
-            android:name=".Appel"
+            android:name=".TPSMS"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

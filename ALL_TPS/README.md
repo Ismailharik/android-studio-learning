@@ -96,3 +96,7 @@
 <img width="49%" src="appel1.png">
 <img width="49%" src="appel.png">
 </div>
+
+<h2>TP SMS:</h2>
+<p>don't forget to sms permission on AndroidManifest & allow your app from sitting to send sms </p>
+<img src="TPSMS.png">
